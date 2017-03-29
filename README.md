@@ -1,6 +1,6 @@
 # clipboard
 复制剪贴板
-`
+```html
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
@@ -29,4 +29,4 @@
 </script>
 </body>
 </html>
-`
+```
